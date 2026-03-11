@@ -1,0 +1,1 @@
+# userscript-duolingo-forum-redirector
